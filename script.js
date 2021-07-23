@@ -10,7 +10,7 @@ nav.classList.toggle("active-navbar");
 
 //header-1
 
-let text="I'm a Mern Stack web Developer";
+let text="I'm a  web Developer";
 
 let elem=document.getElementById("elem");
 
