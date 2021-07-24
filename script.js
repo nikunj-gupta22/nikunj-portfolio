@@ -8,7 +8,7 @@ nav.classList.toggle("active-navbar");
 
 })
 
-//header-1
+
 
 let text="I'm a  web Developer";
 
